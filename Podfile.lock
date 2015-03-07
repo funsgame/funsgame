@@ -1,0 +1,69 @@
+PODS:
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - FXNotifications (1.1)
+  - HZActivityIndicatorView (0.0.1)
+  - iOSBlocks (1.2):
+    - iOSBlocks/Cocoa (= 1.2)
+  - iOSBlocks/Cocoa (1.2):
+    - iOSBlocks/CoreLocation
+    - iOSBlocks/Foundation
+    - iOSBlocks/MessageUI
+    - iOSBlocks/UIKit
+  - iOSBlocks/CoreLocation (1.2)
+  - iOSBlocks/Foundation (1.2)
+  - iOSBlocks/MessageUI (1.2)
+  - iOSBlocks/UIKit (1.2)
+  - IQKeyboardManager (3.0.8)
+  - iToast (0.0.1)
+  - iVersion (1.10.6)
+  - JTObjectMapping (1.1.2)
+  - LKDBHelper (1.4):
+    - FMDB
+  - MBProgressHUD (0.9)
+  - MKNetworkKit (0.87):
+    - Reachability (~> 3.1.0)
+  - Reachability (3.1.1)
+  - RegexKitLite (4.0)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core (= 3.7.1)
+  - SDWebImage/Core (3.7.1)
+  - SSKeychain (1.2.2)
+
+DEPENDENCIES:
+  - FMDB (~> 2.3)
+  - FXNotifications (~> 1.1)
+  - HZActivityIndicatorView (~> 0.0.1)
+  - iOSBlocks (~> 1.2)
+  - IQKeyboardManager (~> 3.0.6)
+  - iToast (~> 0.0.1)
+  - iVersion (~> 1.10.6)
+  - JTObjectMapping (~> 1.1.2)
+  - LKDBHelper (~> 1.4)
+  - MBProgressHUD (~> 0.8)
+  - MKNetworkKit (~> 0.87)
+  - RegexKitLite (~> 4.0)
+  - SDWebImage (~> 3.7.1)
+  - SSKeychain (~> 1.2.2)
+
+SPEC CHECKSUMS:
+  FMDB: 0efa188cf0dd1ce82c27a478cd5f5fa245308677
+  FXNotifications: 5db44d7207427f45c8a9c6d6cad70291a08296d7
+  HZActivityIndicatorView: cb9174be51997dcafcd910d5dc013f6d8985bbb5
+  iOSBlocks: 44d60278252c2aa8e708e0c14b76e36838b710ab
+  IQKeyboardManager: 0bf193c2d8a4d9c2063b39d6bc9d4e45a381a02a
+  iToast: 4de112d3dd42a3a8bf685572e6cda723c9cbc4f2
+  iVersion: bd6b244d3e381fd7838a9b1a94b9bcaa2c018e70
+  JTObjectMapping: eb39b1ec7ecb7d1079a53595bbe46be8b2ed482b
+  LKDBHelper: b337d5cdfba9d0b78e74992e1ca8bdc8b9fc7928
+  MBProgressHUD: 2038dbcf3dce73215abed6001657043d53aa79a8
+  MKNetworkKit: 83e6296a8d42e98a71880424a889773654846d74
+  Reachability: 8e9635e3cb4f98e7f825e51147f677ecc694d0e7
+  RegexKitLite: c0e4c12e6e7de0769f3a3ed679f0f61604170661
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
+  SSKeychain: cc48bd3ad24fcd9125adb9e0d23dd50b8bbd08b9
+
+COCOAPODS: 0.35.0

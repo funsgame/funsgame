@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>92A8538F-82BB-4F61-A428-6D94317AA8BD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FunsGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C45D150316242F4E15F029D4903EDACA15902D7E</key>
+		<string>https://git.oschina.net/cwb200876/fun.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FunsGame.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C45D150316242F4E15F029D4903EDACA15902D7E</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/cwb200876/fun.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C45D150316242F4E15F029D4903EDACA15902D7E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C45D150316242F4E15F029D4903EDACA15902D7E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>0306FunsGame</string>
+		</dict>
+	</array>
+</dict>
+</plist>
